@@ -1,1 +1,1 @@
-# CI Demo [![Build status][![Build status](https://ci.appveyor.com/api/projects/status/g5im787l9mwsbpe4?svg=true)](https://ci.appveyor.com/project/mumitrols/unit-3)
+# CI Demo [![Build status](https://ci.appveyor.com/api/projects/status/g5im787l9mwsbpe4?svg=true)](https://ci.appveyor.com/project/mumitrols/unit-3)
